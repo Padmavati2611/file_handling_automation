@@ -1,0 +1,2 @@
+PADMA,20,AIML
+rashi,21,ece
